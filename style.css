@@ -13,7 +13,7 @@ body {
 
 .weather {
     background-color: #212121;
-    width: 22vw;
+    min-width: 22vw;
     min-height: 70vh;
     padding: 40px;
     box-sizing: border-box;
